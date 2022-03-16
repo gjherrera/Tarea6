@@ -7,7 +7,7 @@ void productos(int opcion)
 {
 	system ("cls");
 	
-	int opcionProducto = 0;
+	int opcionProducto= 0;
 	switch (opcion)
 	{
 		case 1:
